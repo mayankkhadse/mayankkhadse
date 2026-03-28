@@ -101,4 +101,6 @@
 
 ---
 
+📄 [View My Resume](./MayankKhadseCV.pdf)
+
 ⭐ *If you like my projects, give them a star!* ⭐
