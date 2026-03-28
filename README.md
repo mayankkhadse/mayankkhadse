@@ -101,6 +101,6 @@
 
 ---
 
-📄 [View My Resume](./Mayank Khadse CV.pdf)
+📄 [View My Resume](./Mayankkhadse.pdf)
 
 ⭐ *If you like my projects, give them a star!* ⭐
