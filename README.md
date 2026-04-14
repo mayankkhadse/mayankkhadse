@@ -46,8 +46,8 @@
 
 ###🏋️ PoseGuard – AI Fitness & Posture Assistant
 
-An intelligent gym assistant that combines real-time posture detection, audio feedback, and an AI chatbot for personalized workout guidance.
-Helps users improve form, reduce injury risk, and get instant fitness advice.
+>An intelligent gym assistant that combines real-time posture detection, audio feedback, and an AI chatbot for personalized workout guidance.
+>Helps users improve form, reduce injury risk, and get instant fitness advice.
 
 Tech: Python · MediaPipe · OpenCV · Machine Learning · Groq API · Text-to-Speech
 
