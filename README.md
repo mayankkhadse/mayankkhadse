@@ -44,13 +44,14 @@
 
 ## 📂 Featured Projects
 
-### 🏋️ AI-Based Gym Posture Detection System
-> Real-time posture detection using webcam, MediaPipe AI, and Random Forest ML model.
-> Detects Squat, Pushup, and Bicep Curl with live feedback and ~97% accuracy.
+###🏋️ PoseGuard – AI Fitness & Posture Assistant
 
-**Tech:** Python · MediaPipe · OpenCV · Scikit-learn · Random Forest
+An intelligent gym assistant that combines real-time posture detection, audio feedback, and an AI chatbot for personalized workout guidance.
+Helps users improve form, reduce injury risk, and get instant fitness advice.
 
-🔗 [View Project](https://github.com/mayankkhadse/Gym-posture-detector)
+Tech: Python · MediaPipe · OpenCV · Machine Learning · Groq API · Text-to-Speech
+
+🔗 [View Project](https://github.com/mayankkhadse/PoseGuard)
 
 ---
 
